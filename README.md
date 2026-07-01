@@ -39,14 +39,5 @@
 
 ### 📫 Как со мной связаться
 
-<object data="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" type="image/svg+xml">
-  <a href="https://t.me/lastik9" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</object>
-
-<object data="https://img.shields.io/badge/Yandex__Mail-E61414?style=for-the-badge&logo=yandex&logoColor=white" type="image/svg+xml">
-  <a href="mailto:lastik9@yandex.ru" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Yandex__Mail-E61414?style=for-the-badge&logo=yandex&logoColor=white" alt="Email" />
-  </a>
-</object>
+[![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lastik9)
+[![Yandex Mail](https://img.shields.io/badge/Yandex__Mail-E61414?style=for-the-badge&logo=yandex&logoColor=white)](mailto:lastik9@yandex.ru)
