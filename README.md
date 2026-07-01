@@ -23,9 +23,10 @@
 
 ### 📊 Статистика активности GitHub
 
+```xml
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lastik997&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Vadim's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lastik997&layout=compact&theme=dark" alt="Top Languages" height="180px" />
+  <img src="[https://github-readme-stats-sigma-five.vercel.app/api?username=lastik997&show_icons=true&theme=dark&include_all_commits=true&count_private=true](https://github-readme-stats-sigma-five.vercel.app/api?username=lastik997&show_icons=true&theme=dark&include_all_commits=true&count_private=true)" alt="Vadim's GitHub Stats" height="180px" />
+  <img src="[https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lastik997&layout=compact&theme=dark](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lastik997&layout=compact&theme=dark)" alt="Top Languages" height="180px" />
 </p>
 
 ---
