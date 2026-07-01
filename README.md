@@ -38,5 +38,11 @@
 ---
 
 ### 📫 Как со мной связаться
-- **Telegram:** [@lastik9](https://t.me/lastik9))
-- **Email:** [твоя_почта@example.com](mailto:твоя_почта@example.com)
+
+<a href="https://t.me/lastik9" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
+<a href="mailto:lastik9@yandex.ru" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
