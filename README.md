@@ -17,21 +17,7 @@
 `n8n` `LiteLLM` `Open WebUI` `Bash scripting`
 
 🔹 **Hardware и Электротехника:**
-Кастомизация и прошивка роутеров (Xiaomi, Cudy), сборка систем автоматизации и щитового оборудования.
-
----
-
-### 📊 Статистика активности GitHub
-
----
-
-### 📊 Статистика активности GitHub
-
-```xml
-<p align="left">
-  <img src="[https://github-readme-stats-sigma-five.vercel.app/api?username=lastik997&show_icons=true&theme=dark&include_all_commits=true&count_private=true](https://github-readme-stats-sigma-five.vercel.app/api?username=lastik997&show_icons=true&theme=dark&include_all_commits=true&count_private=true)" alt="Vadim's GitHub Stats" height="180px" />
-  <img src="[https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lastik997&layout=compact&theme=dark](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lastik997&layout=compact&theme=dark)" alt="Top Languages" height="180px" />
-</p>
+Кастомизация и прошивка роутеров, сборка систем автоматизации и щитового оборудования.
 
 ---
 
@@ -44,5 +30,5 @@
 
 ### 📫 Как со мной связаться
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lastik9)
-[![Yandex Mail](https://img.shields.io/badge/Yandex__Mail-E61414?style=for-the-badge&logo=yandex&logoColor=white)](mailto:lastik9@yandex.ru)
+- **Telegram:** [@lastik9](https://t.me/lastik9)
+- **Email:** lastik9@yandex.ru
