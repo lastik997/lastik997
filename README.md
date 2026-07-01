@@ -38,5 +38,5 @@
 ---
 
 ### 📫 Как со мной связаться
-- **Telegram:** [@lastik9]
-- **Email:** lastik9@yandex.ru
+- **Telegram:** [@lastik9](https://t.me/lastik9))
+- **Email:** [твоя_почта@example.com](mailto:твоя_почта@example.com)
